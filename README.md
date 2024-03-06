@@ -1,1 +1,1 @@
-# Verilog-HDL-ile-Devre-Olusturma
+Vivado kullanılmıştır
